@@ -4,7 +4,7 @@
 
 - Learn new AR solution;
 - Build an working example;
-        - Simulate your facial expressions and lip movement;
+- Simulate your facial expressions and lip movement;
 
 ## Research Step by Step
 

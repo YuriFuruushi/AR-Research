@@ -32,15 +32,15 @@ Most features already know, no further study is required.
 
 - Simple interface;
 - Exclusive for Mobile;
-        - ARCore (Android)
-        - ARKit (iOS);
+- ARCore (Android)
+- ARKit (iOS);
 - Used before in my Robot Controller project: [https://www.youtube.com/watch?v=GN8qGs-XbK0](https://www.youtube.com/watch?v=GN8qGs-XbK0)
 
 ### TensorFlow & Mediapipe
 
 - Based on machine learning models
 - Basic Models can be read by Unity using ML-Agents and Barracuda;
-        - Requires Model format ONNX;
+- Requires Model format ONNX;
 - Can also work with TensorFlowSharp;
 
 ```

@@ -1,6 +1,4 @@
-# AR Test
-
-## AR RESEARCH
+# AR Research
 
 ## Objective
 

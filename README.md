@@ -9,14 +9,14 @@
 ## Research Step by Step
 
 1. Lookup all three examples
-        1. AR Foundation
-        2. Tensorflow
-        3. Mediapipe
+- AR Foundation
+- Tensorflow
+- Mediapipe
 2. Unity Agents
-        1. Barracuda
+- Barracuda
 3. Tutorials
-        1. Google
-        2. Youtube
+- Google
+- Youtube
 4. Examples Search
 5. Example Refactoring
 
